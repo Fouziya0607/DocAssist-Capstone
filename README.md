@@ -61,7 +61,7 @@ DocAssist aims to develop an intelligent medical decision support system that le
 - Ensure compliance with healthcare regulations and data privacy laws throughout the project.
 
 ## Dataset
-The dataset for this project is available [here](dataset_Capstone.csv).
+The dataset for this project is available [here](dataset_capstone.csv).
 
 ## Getting Started
 
