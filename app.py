@@ -7,7 +7,7 @@ app = Flask(__name__)
 sex_map = {'M': 0, 'F': 1}
 
 # Load the trained model
-model = joblib.load('models/model.joblib')
+model = joblib.load('/models/model.joblib')
 
 # Define a function to preprocess input data
 def preprocess_data(data):
