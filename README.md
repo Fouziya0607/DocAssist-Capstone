@@ -73,7 +73,7 @@ The dataset for this project is available [here](dataset_capstone.csv).
 
 1. Clone the repository:
    ```bash
-   
+   https://github.com/Fouziya0607/DocAssist-Capstone
 2.install requed package
 pip install -r requirements.txt
 ## Project Structure
